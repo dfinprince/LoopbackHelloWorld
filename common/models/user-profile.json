@@ -1,0 +1,13 @@
+{
+  "name": "UserProfile",
+  "base": "Model",
+  "idInjection": true,
+  "forceId": false,
+  "options": {
+    "validateUpsert": true
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
