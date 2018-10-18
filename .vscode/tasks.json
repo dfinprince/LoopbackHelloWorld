@@ -2,7 +2,9 @@
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
     // PRINCE CHERUVATHUR - Start task from VSCode.
-    // Open chrome and type chrome://
+    // Open chrome and type chrome://inspect
+    // Click "Open dedicated DevTools for Node"
+    // Continue debugging using the devtools
     "version": "2.0.0",
     "tasks": [
         {
